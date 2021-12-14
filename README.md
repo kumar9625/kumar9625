@@ -1,3 +1,7 @@
+
+👩🏻‍💻 ROHIT VERMA
+
+
 🔻 DATA SCIENCE 🔻 MACHINE LEARNING 🔻 PYTHON 🔻WEB DEVELOPMENT
 - 👀 I’m interested in Data Science, Machine Learning and Web Development 
 - 🌱 I’m currently learning ADVANCED DATA SCIENCE.
