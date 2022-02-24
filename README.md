@@ -7,7 +7,7 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning ADVANCED DATA SCIENCE.
 - 💞️ I’m looking to collaborate on Machine Learning And Data Science Projects.
 - 📫 How to find me:
-    - :office: [LinkedIn](https://www.linkedin.com/in/rohitverma9625/)
+    -  [LinkedIn](https://www.linkedin.com/in/rohitverma9625/)
     - [KAGGLE](https://www.kaggle.com/rohitverma9625)
 
 <!---
